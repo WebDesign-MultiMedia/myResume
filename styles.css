@@ -202,7 +202,7 @@ font-family:'Courier New', Courier, monospace;
 #jsProgess{
     background-color: var(--lightseagreen);
     color: var(--white);
-    padding-left: 5rem;
+    padding-left: 4rem;
     padding-right: 10px;
     margin-left:10px;
 }
